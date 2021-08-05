@@ -20,12 +20,9 @@ I am Janu, a technical writer with 9 years of experience in various fields. On t
 ||Adobe Acrobat Pro|
 ||SnagIT|
 ## Work History
-- Technical Writer
-Finastra, Bangalore, Karnataka (May 2021 - Present)
-- Deputy Manager
-Wipro Ltd., Chennai, Tamil Nadu (April 2019 – May 2021)
-- Senior Technical Writer
-RM Education Solutions Pvt. India Ltd., Trivandrum, Kerala (April 2012 – April 2019)
+- Technical Writer - Finastra, Bangalore, Karnataka (May 2021 - Present)
+- Deputy Manager - Wipro Ltd., Chennai, Tamil Nadu (April 2019 – May 2021)
+- Senior Technical Writer - RM Education Solutions Pvt. India Ltd., Trivandrum, Kerala (April 2012 – April 2019)
 
 ## Writing Samples
 - User manual 
