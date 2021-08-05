@@ -1,0 +1,74 @@
+# BHIM - User manual for Android users
+
+## Introduction
+Bhim (Bharat Interface for Money) is an app developed by Govt of India to transfer money online securely and swiftly using the UPI (Unified Payments Interface) feature. The app works in Android as well as iOS platforms in mobile devices. The BHIM app creates a UPI ID that helps you to send and request the money using your UPI ID or your registered mobile number. This app also provides the feature of ‘scan and pay’ where you can scan the QR code for your UPI ID and transfer the money. 
+## Requirements / Prerequisite
+* An android smartphone with the Internet connection.
+* Ensure that your mobile number is linked with your bank account.
+* Account debit card number.
+
+## Get started
+### To install the app
+
+1.	From your mobile, tap the Play Store icon.
+2.	Search for **BHIM – MAKING INDIA CASHLESS**. 
+**Note**: Ensure the app is offered by National Payments Corporation of India (NPCI).
+3.	Click INSTALL.
+4.	Once downloaded, tap OPEN.
+
+### To create a UPI ID and pin
+1.	Open the BHIM app.
+2.	From the Choose Language window, select your preferred language and click NEXT.
+3.	Tap NEXT twice and then LET’S GET STARTED.
+4.	For the prompts, ‘Allow BHIM to send and view sms messages’ and ‘Allow BHIM to make and manage phone calls’, tap ALLOW.
+5.	If you are using a dual sim mobile, from the ‘Verify Mobile number’ window, select the sim that you have linked with your bank account.
+6.	Click Next. You will receive a “Mobile verified” message once the UPI ID is created. If not, refer to the ‘To raise a complaint’ section below to contact the help desk. 
+7.	In the ‘Enter passcode” screen, enter the 4 digit password. Remember this passcode as it will be prompted during the BHIM log on.
+8.	From the ‘Select Your Bank’ screen, select your bank where you have your account. The app will fetch your account details.
+9.	Tap on the SET UPI PIN button.
+10.	Enter the last 6 digits of your account debit card and the validity date of the card.
+11.	Once the OTP is fetched from your mobile, enter the 6 digit UPI pin and confirm it.
+12.	Once complete, you will be redirected to the BHIM home screen.
+
+### To view your UPI ID
+1.	Open the BHIM app and login with your 4 digit passcode.
+2.	Under the MY INFORMATION section, tap on Profile. You will be displayed with your UPI ID and QR code. You can share this with others for the transaction. 
+
+### To send the money
+Using the SEND option, you can send the money using the UPI ID, mobile number or account details. To send money using the account details you will need to know the IFSC code in prior:
+1.	Open the BHIM app and login with your 4 digit passcode.
+2.	Tap on the SEND option.
+3.	Select the appropriate option, i.e.  Mobile /UPI ID or A/C+IFSC.
+#### To send using the Mobile /UPI ID option,
+1. In the Mobile /UPI ID field, enter their UPI ID or mobile number. You can select their mobile number from your phone contact book by tapping the CONTACTS option.
+2.	Enter the amount.
+3.	Enter remarks, if require.
+4.	Tick the ‘Save this for later’ box, to save the account details for future transaction and then tap on PAY.
+5.	Enter the 6 digit UPI pin and tap on the tick icon.
+#### To send using the A/C+IFSC option:
+1.	Tap on the A/C+IFSC option.
+2.	From the list, select the recipient’s bank.
+3.	Enter the IFSC code, beneficiary name and account number.
+4.	Enter remarks, if required and then tap on SEND.
+5.	Enter the 6 digit UPI pin and tap on the tick icon.
+If you experience any trouble during the transaction, refer to the’ To raise a complaint’ section to contact the help desk.
+
+### To request for money
+Using this option, you can send a request for money to your friends using their UPI iD. To this, follow the steps below:
+1.	Open the BHIM app and login with your 4 digit passcode.
+2.	In the Mobile /UPI ID field, enter their UPI ID or mobile number. You can also select their mobile number from your phone contact book by tapping the CONTACTS option.
+3.	Enter the amount.
+4.	In the Valid Upto field, select a date.
+5.	Enter remarks, if required and then tap on REQUEST.
+
+### To raise a complaint
+If you experience any issues during the transaction, you can contact the help desk to raise a Support request:
+1.	At the top left-hand side of the screen, tap on the ellipses (3 vertical dots) icon.
+2.	Tap on Raise Complaint. 
+3.	Select the failed transaction. 
+4.	If your request requires immediate attention from bank, tap on CALL BANK else tap on RAISE CONCERN and select appropriate option based on the issue.
+
+## Support channels
+Should you require assistance or advice, please contact the support directly using the following channels:
+* Email : contact.bhim@npci.org.in
+* Telephone: 18001201740
