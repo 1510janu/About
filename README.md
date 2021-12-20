@@ -27,5 +27,5 @@ I am Janu, a technical writer with 9 years of experience in various fields. On t
 ## Writing Samples
 - [User manual](https://github.com/1510janu/About/blob/963bef24361229400f53de21491451c15a71406a/BHIM.md)
 - Write ups
-- - [Contnet Manager](https://github.com/1510janu/About/blob/3f11aa2d8343a8a378aaebf6b22a3fa0be15582e/WP.md)
+- - [Content Manager](https://github.com/1510janu/About/blob/3f11aa2d8343a8a378aaebf6b22a3fa0be15582e/WP.md)
 - - [Doc process](https://github.com/1510janu/About/blob/963bef24361229400f53de21491451c15a71406a/Write-up.md)
